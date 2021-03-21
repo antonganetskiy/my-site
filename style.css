@@ -48,6 +48,7 @@ body {
 
 .hero-image {
   margin-bottom: 620px;
+  text-align: center;
 }
 
 .hero-image .container {
@@ -57,6 +58,7 @@ body {
 
 .heading {
   margin: 0 0 16px;
+  text-align: center;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
   font-size: 88px;
   line-height: 96px;
